@@ -48,6 +48,10 @@ The game currently supports these languages (Vietnamese was added in [Update 34.
 
 On the [Steam](/Steam) client, Steam's locale is used as the default language.
 
+## In progress {#In_progress}
+
+- **Romanian🇷🇴**: being translated by Gruno The Gamer
+
 ## Contributing {#Contributing}
 
 [Information can be found on the Github page](https://github.com/openfrontio/OpenFrontIO?tab=readme-ov-file#-translation).
