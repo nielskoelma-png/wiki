@@ -9,7 +9,59 @@ cats: []
 
 # List of Maps {#List_of_Maps}
 
-## New in Update 34.0 {#New_maps_in_v34}
+## New in Update 35.0 {#New_maps_in_v35}
+
+The 12 maps below were added in [Update 35.0](/Update_35.0). Since v35, public lobby size comes from each map's land rather than a fixed 125-player cap.
+
+### [Madagascar](/Madagascar) {#Madagascar}
+
+A dedicated Nuke Wars map in the style of [Baikal (Nuke Wars)](/Baikal_(Nuke_Wars)): two equal landmasses across the Mozambique Channel, set in the 80s. Added by **RickD004**.
+
+### [Horn of Africa](/Horn_of_Africa) {#Horn_of_Africa}
+
+A pirating chokepoint off Somalia and an inner water system from the Nile to Lake Victoria. Added by **RickD004**.
+
+### [Vancouver Island](/Vancouver_Island) {#Vancouver_Island}
+
+30+ nations from the Pacific Northwest. Added by **RickD004**.
+
+### [Cape of Good Hope](/Cape_of_Good_Hope) {#Cape_of_Good_Hope}
+
+A large bay with one chokepoint, plus historical South African flags. Added by **RickD004**.
+
+### [Canary Islands](/Canary_Islands) {#Canary_Islands}
+
+An island map with shortened crossings, high in team rotation. Added by **RickD004**.
+
+### [Bab el-Mandeb Strait](/Bab_el-Mandeb_Strait) {#Bab_el-Mandeb_Strait}
+
+A balanced two-team map set in the early 1960s, with the region's flags. Added by **RickD004**.
+
+### [Rio de Janeiro](/Rio_de_Janeiro) {#Rio_de_Janeiro}
+
+Guanabara Bay, with 30 nations from Rio's neighbourhoods and municipalities. Added by **Renan Scarpin**.
+
+### [Pulicat Lake](/Pulicat_Lake) {#Pulicat_Lake}
+
+A lagoon with a single sea entrance, and a pirate island in the door. Added by **Panindhra Tallapudi**.
+
+### [Benelux](/Benelux) {#Benelux}
+
+Belgium, the Netherlands and Luxembourg. Added by **Niels K.** and **RickD004**.
+
+### [New Zealand](/New_Zealand) {#New_Zealand}
+
+Traditional Māori tribes as nations, with the country's regions as 80+ more, on a medium-sized map. Added by **RickD004**.
+
+### [Brain Rot](/Brain_Rot) {#Brain_Rot}
+
+Here to stay, and boosted in public rotation for Halloween. By **PatrickPlaysBadly**, **VariableVince** and **RickD004**.
+
+### [Ommatrypta](/Ommatrypta) {#Ommatrypta}
+
+Halloween only, boosted in public rotation for the holiday. By **PatrickPlaysBadly**, **VariableVince** and **RickD004**.
+
+## Added in Update 34.0 {#New_maps_in_v34}
 
 The maps below were added or reworked in [Update 34.0](/Update_34.0).
 

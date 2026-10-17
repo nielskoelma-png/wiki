@@ -10,6 +10,17 @@ Nations are the other type of [bots](/Bots) in an [OpenFront](/OpenFront.io) mat
 Nations are commonly encountered adversaries in Openfront. Often considered as the intelligent relatives of the widespread cannon-fodder [Bots](/Bots), they possess characteristics closer to a human player, including the following: Requesting [alliances](/Ally), Constructing Buildings and [trading](/Port). Another capability in the naval space is sending transports (also known as ships). Nations can also send emojis on special occasions. For example: if you **attack a nation**, they have a chance to send out clown or angry emojis. 
 Nations can have inaccurate territory in the game. This is either because it is too small to be more than a pixel, or because the borders are too hard to draw. There is a very small chance it gets accurate borders, with high chances of  the territory being bigger or smaller on the [map](/Maps).
 
+### Update 35.0 behaviour {#Update_35.0_behaviour}
+
+[Update 35.0](/Update_35.0) made Medium, Hard and Impossible nations play more like winning humans (Easy nations keep their old behaviour):
+
+- They save later, keep building, and put [defense posts](/Defense_Post) behind the front instead of stacking them.
+- On Hard and Impossible they send 1% beachhead boats and follow up with a land attack the tick they land. Medium and up stop saving for nukes before three [cities](/City).
+- They defend against boat landings, answer attacks before saving, route boats around [warships](/Warship), send warship squads at blockades, and don't sail past 300/500 tiles.
+- Nukes go on bordering rivals and land, never water or [fallout](/Fallout); no two nations nuke the same spot, small islands get [atom bombs](/Atom_Bomb), and they nuke back. [MIRVs](/MIRV) go on reachable targets.
+- They annex [bots](/Bots) by walling them in, and in FFA they gang up on a runaway leader.
+- Team nations back up and keep donating troops to teammates, celebrate wins with an emoji, and only one nation mocks a [traitor](/Traitor) instead of all of them.
+
 ### Combatting Nations {#Combatting_Nations}
 
 Nations are quite a peculiar entity in [OpenFront](/OpenFront.io). Nations are placed second in the purview of intelligence, with [bots](/Bots) being last at third and human players placed at first. Nations are quite hard to beat if you aren't sufficiently prepared for them, due to their ability to act closer to humans than [bots](/Bots). It can be very hard to get rid of a nation bot when they commence an attack, but they ineffectively throw their troops at you and significantly reduce their ability to launch a second wave. Use these weaknesses to your advantage and start a noticeable invasion to call other nations around you to help eliminate them. You can also attack when they launch on a player or a fellow nation. If you are prepared, attack a nation after they build infrastructure like [ports](/Port).

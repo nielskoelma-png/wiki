@@ -31,17 +31,49 @@ cats: []
 </td>
 <td><a href="/Update_33.0" class="" title="Update 33.0">Update 33.0</a>
 </td>
-<td style="background-color: rgba(0, 255, 0, 0.2);"><a href="/Update_34.0" class="" title="Update 34.0">Update 34.0</a>
+<td><a href="/Update_34.0" class="" title="Update 34.0">Update 34.0</a>
+</td>
+<td style="background-color: rgba(0, 255, 0, 0.2);"><a href="/Update_35.0" class="" title="Update 35.0">Update 35.0</a>
 </td></tr></tbody></table>
 
 # 📦 [OpenFront](/OpenFront.io) Version History {#📦_OpenFront_Version_History}
 
 Major updates have a full changelog on this wiki (see the table above). All releases are also available on [GitHub](https://github.com/openfrontio/OpenFrontIO/releases/)
 
+## Version 35 {#Version_35}
+
+- [Update 35.0 changelog](/Update_35.0) — full write-up on this wiki (the progression update: [levels and XP](/Levels_and_XP), Ranked FFA and Clan Wars)
+- [v35.1](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.35.1)
+- [v35.2](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.35.2)
+
 ## Version 34 {#Version_34}
 
 - [Update 34.0 changelog](/Update_34.0) — full write-up on this wiki (the [Steam](/Steam) update)
 - [v34.1](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.1)
+- [v34.2](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.2)
+- [v34.3](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.3)
+- [v34.4](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.4)
+- [v34.5](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.5)
+- [v34.6](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.6)
+- [v34.7](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.7)
+- [v34.8](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.8)
+- [v34.9](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.9)
+- [v34.10](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.10)
+- [v34.11](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.11)
+- [v34.12](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.12)
+- [v34.13](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.13)
+- [v34.14](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.14)
+- [v34.15](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.15)
+- [v34.16](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.16)
+- [v34.17](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.17)
+- [v34.18](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.18)
+- [v34.19](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.19)
+- [v34.20](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.20)
+- [v34.21](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.21)
+- [v34.22](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.22)
+- [v34.23](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.23)
+- [v34.24](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.24)
+- [v34.25](https://github.com/openfrontio/OpenFrontIO/releases/tag/v0.34.25)
 
 ## Version 33 {#Version_33}
 

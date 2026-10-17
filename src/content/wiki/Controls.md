@@ -7,6 +7,8 @@ cats: ["All stub articles","Stubs","Gameplay"]
 
 The **controls** for OpenFront use a combination of keyboard and mouse actions. They can be rebound by going into Settings → Keybinds. As of [Update 34.0](/Update_34.0), the `F` boat-attack key, `R` and box-selecting [warships](/Warship) are also rebindable, and `F` or `Escape` cancels a warship selection.
 
+[Update 35.0](/Update_35.0) moved several defaults: boat attack is now `B` (was `F`), `F` opens the redesigned emoji menu, `R` opens quick chat on the player under your cursor, and select-all-warships moved to `X`. `K`/`L` send or break an alliance and `N` targets a player. The arrow keys and zoom keys are now real keybinds too, so assigning them elsewhere no longer fires both actions. In the emoji menu, `Q` `W` `E` `A` `S` `D` fire your six Favorites.
+
 ## PC {#PC}
 
 <table class="wikitable">
@@ -118,11 +120,11 @@ The **controls** for OpenFront use a combination of keyboard and mouse actions. 
 <td>Zooms in
 </td></tr>
 <tr>
-<td><code>F</code>
+<td><code>B</code>
 </td>
 <td>
 </td>
-<td>Sends a boat attack to tile under cursor
+<td>Sends a boat attack to tile under cursor (was <code>F</code> before <a href="/Update_35.0" title="Update 35.0">Update 35.0</a>)
 </td></tr>
 <tr>
 <td><code>G</code>
@@ -200,6 +202,48 @@ The **controls** for OpenFront use a combination of keyboard and mouse actions. 
 <td>
 </td>
 <td>Sends a <a href="/MIRV" title="MIRV">MIRV</a> to tile under cursor
+</td></tr>
+<tr>
+<td><code>F</code>
+</td>
+<td>
+</td>
+<td>Opens the emoji menu (<a href="/Update_35.0" title="Update 35.0">Update 35.0</a>)
+</td></tr>
+<tr>
+<td><code>R</code>
+</td>
+<td>
+</td>
+<td>Opens quick chat for the player under the cursor
+</td></tr>
+<tr>
+<td><code>Shift</code> + <code>R</code>
+</td>
+<td>
+</td>
+<td>Retaliate against the player attacking you
+</td></tr>
+<tr>
+<td><code>K</code> / <code>L</code>
+</td>
+<td>
+</td>
+<td>Send / break an alliance with the player under the cursor
+</td></tr>
+<tr>
+<td><code>N</code>
+</td>
+<td>
+</td>
+<td>Target the player under the cursor
+</td></tr>
+<tr>
+<td><code>X</code>
+</td>
+<td>
+</td>
+<td>Select all your <a href="/Warship" title="Warship">warships</a>
 </td></tr>
 <tr>
 <td><code>Alt</code> + <code>R</code>
