@@ -13,7 +13,7 @@ The map features 9 named [nations](/Nations), including Shanghai, Taizhou, Nanto
 
 ## Details {#Details}
 
-- **Categories:** Asia, New
+- **Categories:** Asia
 - **Nations:** 9
 - **Public rotation frequency:** 3
 

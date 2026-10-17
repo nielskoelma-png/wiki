@@ -13,7 +13,7 @@ The map features 34 named [nations](/Nations) based on modern provinces and regi
 
 ## Details {#Details}
 
-- **Categories:** Countries, Asia, New
+- **Categories:** Countries, Asia
 - **Nations:** 34
 - **Public rotation frequency:** 8
 

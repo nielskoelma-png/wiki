@@ -29,6 +29,17 @@ saturation(n) = (1 + 0.45 * e^(-n / 120)) * max(1 - sigmoid(n, ln2/50, 230), 0.2
 
 While the world fleet is small there is a mild (~1.45×) boost to the odds, so the early trading minutes ramp up faster; the boost crosses the old un-boosted curve around 110 ships. Past the ~230-ship midpoint spawning is damped, flattening onto a 0.25 plateau beyond ~310 ships (roughly half cadence per port), so heavy port investment keeps scaling income linearly until a global hard cap far beyond any normal game (~800 ships at sea). The spawn rate is recalculated on each port level roll.
 
+In [Update 35.0](/Update_35.0) the fleet-size boost was replaced by a **small-economy boost** for each player, and the damping midpoint moved from 230 to 330 ships:
+
+<pre>spawnChance = 1 / max(1, floor((100 / boost²) / (rejections + 1) / saturation(numTradeShips)))
+
+boost(portLevels) = 1 + 0.5 * clamp((6 - portLevels) / 5, 0, 1) / portLevels
+
+saturation(n) = max(1 - sigmoid(n, ln2/50, 330), 0.25 * (1 - sigmoid(n, ln2/100, 800)))
+</pre>
+
+A player with a single port level sends a ship about every 8 seconds instead of about 12. The boost shrinks with each port level you add and is gone at 6, so more ports still means more trade overall. Because it depends on your own ports rather than the world fleet, it works the same in any lobby size and helps a player who has been knocked back.
+
 # Trade Route Selection {#Trade_Route_Selection}
 
 [Ports](/Port) will only trade with other players (not their own [ports](/Port)). Trade partners are prioritized in this order:

@@ -9,7 +9,74 @@ cats: []
 
 # List of Maps {#List_of_Maps}
 
-## New in Update 34.0 {#New_maps_in_v34}
+## New in Update 35.0 {#New_maps_in_v35}
+
+The 12 maps below were added in [Update 35.0](/Update_35.0). Since v35, public lobby size comes from each map's land rather than a fixed 125-player cap.
+
+<ul class="gallery">
+<li class="gallerybox"><a href="/Madagascar" title="Madagascar"><img src="/images/Madagascar_map_thumb.webp" alt="Madagascar map" width="160" height="120" loading="lazy" decoding="async"></a><div class="gallerytext"><p><a href="/Madagascar">Madagascar</a></p></div></li>
+<li class="gallerybox"><a href="/Horn_of_Africa" title="Horn of Africa"><img src="/images/Horn_of_Africa_map_thumb.webp" alt="Horn of Africa map" width="160" height="120" loading="lazy" decoding="async"></a><div class="gallerytext"><p><a href="/Horn_of_Africa">Horn of Africa</a></p></div></li>
+<li class="gallerybox"><a href="/Vancouver_Island" title="Vancouver Island"><img src="/images/Vancouver_Island_map_thumb.webp" alt="Vancouver Island map" width="160" height="120" loading="lazy" decoding="async"></a><div class="gallerytext"><p><a href="/Vancouver_Island">Vancouver Island</a></p></div></li>
+<li class="gallerybox"><a href="/Cape_of_Good_Hope" title="Cape of Good Hope"><img src="/images/Cape_of_Good_Hope_map_thumb.webp" alt="Cape of Good Hope map" width="160" height="120" loading="lazy" decoding="async"></a><div class="gallerytext"><p><a href="/Cape_of_Good_Hope">Cape of Good Hope</a></p></div></li>
+<li class="gallerybox"><a href="/Canary_Islands" title="Canary Islands"><img src="/images/Canary_Islands_map_thumb.webp" alt="Canary Islands map" width="160" height="120" loading="lazy" decoding="async"></a><div class="gallerytext"><p><a href="/Canary_Islands">Canary Islands</a></p></div></li>
+<li class="gallerybox"><a href="/Bab_el-Mandeb_Strait" title="Bab el-Mandeb Strait"><img src="/images/Bab_el-Mandeb_Strait_map_thumb.webp" alt="Bab el-Mandeb Strait map" width="160" height="120" loading="lazy" decoding="async"></a><div class="gallerytext"><p><a href="/Bab_el-Mandeb_Strait">Bab el-Mandeb Strait</a></p></div></li>
+<li class="gallerybox"><a href="/Rio_de_Janeiro" title="Rio de Janeiro"><img src="/images/Rio_de_Janeiro_map_thumb.webp" alt="Rio de Janeiro map" width="160" height="120" loading="lazy" decoding="async"></a><div class="gallerytext"><p><a href="/Rio_de_Janeiro">Rio de Janeiro</a></p></div></li>
+<li class="gallerybox"><a href="/Pulicat_Lake" title="Pulicat Lake"><img src="/images/Pulicat_Lake_map_thumb.webp" alt="Pulicat Lake map" width="160" height="120" loading="lazy" decoding="async"></a><div class="gallerytext"><p><a href="/Pulicat_Lake">Pulicat Lake</a></p></div></li>
+<li class="gallerybox"><a href="/Benelux" title="Benelux"><img src="/images/Benelux_map_thumb.webp" alt="Benelux map" width="160" height="120" loading="lazy" decoding="async"></a><div class="gallerytext"><p><a href="/Benelux">Benelux</a></p></div></li>
+<li class="gallerybox"><a href="/New_Zealand" title="New Zealand"><img src="/images/New_Zealand_map_thumb.webp" alt="New Zealand map" width="160" height="120" loading="lazy" decoding="async"></a><div class="gallerytext"><p><a href="/New_Zealand">New Zealand</a></p></div></li>
+<li class="gallerybox"><a href="/Brain_Rot" title="Brain Rot"><img src="/images/Brain_Rot_map_thumb.webp" alt="Brain Rot map" width="160" height="120" loading="lazy" decoding="async"></a><div class="gallerytext"><p><a href="/Brain_Rot">Brain Rot</a></p></div></li>
+<li class="gallerybox"><a href="/Ommatrypta" title="Ommatrypta"><img src="/images/Ommatrypta_map_thumb.webp" alt="Ommatrypta map" width="160" height="120" loading="lazy" decoding="async"></a><div class="gallerytext"><p><a href="/Ommatrypta">Ommatrypta</a></p></div></li>
+</ul>
+
+### [Madagascar](/Madagascar) {#Madagascar}
+
+A dedicated Nuke Wars map in the style of [Baikal (Nuke Wars)](/Baikal_(Nuke_Wars)): two equal landmasses across the Mozambique Channel, set in the 80s. Added by **RickD004**.
+
+### [Horn of Africa](/Horn_of_Africa) {#Horn_of_Africa}
+
+A pirating chokepoint off Somalia and an inner water system from the Nile to Lake Victoria. Added by **RickD004**.
+
+### [Vancouver Island](/Vancouver_Island) {#Vancouver_Island}
+
+30+ nations from the Pacific Northwest. Added by **RickD004**.
+
+### [Cape of Good Hope](/Cape_of_Good_Hope) {#Cape_of_Good_Hope}
+
+A large bay with one chokepoint, plus historical South African flags. Added by **RickD004**.
+
+### [Canary Islands](/Canary_Islands) {#Canary_Islands}
+
+An island map with shortened crossings, high in team rotation. Added by **RickD004**.
+
+### [Bab el-Mandeb Strait](/Bab_el-Mandeb_Strait) {#Bab_el-Mandeb_Strait}
+
+A balanced two-team map set in the early 1960s, with the region's flags. Added by **RickD004**.
+
+### [Rio de Janeiro](/Rio_de_Janeiro) {#Rio_de_Janeiro}
+
+Guanabara Bay, with 30 nations from Rio's neighbourhoods and municipalities. Added by **Renan Scarpin**.
+
+### [Pulicat Lake](/Pulicat_Lake) {#Pulicat_Lake}
+
+A lagoon with a single sea entrance, and a pirate island in the door. Added by **Panindhra Tallapudi**.
+
+### [Benelux](/Benelux) {#Benelux}
+
+Belgium, the Netherlands and Luxembourg. Added by **Niels K.** and **RickD004**.
+
+### [New Zealand](/New_Zealand) {#New_Zealand}
+
+Traditional Māori tribes as nations, with the country's regions as 80+ more, on a medium-sized map. Added by **RickD004**.
+
+### [Brain Rot](/Brain_Rot) {#Brain_Rot}
+
+Here to stay, and boosted in public rotation for Halloween. By **PatrickPlaysBadly**, **VariableVince** and **RickD004**.
+
+### [Ommatrypta](/Ommatrypta) {#Ommatrypta}
+
+Halloween only, boosted in public rotation for the holiday. By **PatrickPlaysBadly**, **VariableVince** and **RickD004**.
+
+## Added in Update 34.0 {#New_maps_in_v34}
 
 The maps below were added or reworked in [Update 34.0](/Update_34.0).
 

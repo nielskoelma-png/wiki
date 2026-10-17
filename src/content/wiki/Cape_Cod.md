@@ -13,7 +13,7 @@ The map features 31 named [nations](/Nations), including Plymouth, Falmouth, Mar
 
 ## Details {#Details}
 
-- **Categories:** North America, New
+- **Categories:** North America
 - **Nations:** 31
 - **Public rotation frequency:** 4
 

@@ -13,7 +13,7 @@ The map features 37 named [nations](/Nations), including Jamaica, Havana, Santia
 
 ## Details {#Details}
 
-- **Categories:** North America, New
+- **Categories:** North America
 - **Nations:** 37 (+50 additional)
 - **Public rotation frequency:** 5
 
