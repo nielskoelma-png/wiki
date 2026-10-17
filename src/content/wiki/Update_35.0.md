@@ -138,7 +138,7 @@ See [Levels and XP](/Levels_and_XP) for the full XP formula.
 <td>A dedicated Nuke Wars map: two equal landmasses across the Mozambique Channel, set in the 80s</td>
 <td><b>RickD004</b></td></tr>
 <tr>
-<td><b><a href="/Horn_of_Africa" title="Horn of Africa">Horn of Africa</a></b> 🏴‍☠️</td>
+<td><b><a href="/Horn_of_Africa" title="Horn of Africa">Horn of Africa</a></b> 🌍</td>
 <td>A pirating chokepoint off Somalia and an inner water system from the Nile to Lake Victoria</td>
 <td><b>RickD004</b></td></tr>
 <tr>
