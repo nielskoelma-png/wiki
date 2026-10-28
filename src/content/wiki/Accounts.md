@@ -3,7 +3,7 @@ title: "Accounts"
 section: "Meta & community"
 cats: []
 ---
-An **account** lets you play OpenFront under a persistent identity. [Update 33.0](/Update_33.0) added account-level usernames, a verified badge and Login with Google; [Update 34.0](/Update_34.0) made all profiles public, added Sign in with [Steam](/Steam), trusted-only lobbies, player reporting, Support a Creator and self-service account deletion.
+An **account** lets you play OpenFront under a persistent identity. [Update 33.0](/Update_33.0) added account-level usernames, a verified badge and Login with Google; [Update 34.0](/Update_34.0) made all profiles public, added Sign in with [Steam](/Steam), trusted-only lobbies, player reporting, Support a Creator and self-service account deletion; [Update 35.0](/Update_35.0) added player [levels and XP](/Levels_and_XP), a Progression tab and new privacy settings.
 
 ## Usernames and verified badge {#Usernames_and_verified_badge}
 
@@ -25,11 +25,18 @@ An **account** lets you play OpenFront under a persistent identity. [Update 33.0
 - The account modal has a Games tab, and stats live in a dedicated stats modal (previously called "ranking").
 - The nav has a profile dropdown menu, a bell button for news, and a mobile account icon.
 
+## Levels and progression {#Levels_and_progression}
+
+Since [Update 35.0](/Update_35.0) every eligible game earns XP towards your level, with prestige at level 100 (P1 to P10, then Legend). Your account has a **Progression** tab with the reward track (Claim all), prestige history and milestones, and profile cards can be shared. Level Plutonium is held until your account is trusted. See [Levels and XP](/Levels_and_XP).
+
+**Privacy settings** (Update 35.0) let you hide your level from other players and keep your profile out of search engines.
+
 ## Trust tiers, trusted lobbies and reporting {#Trust_tiers_trusted_lobbies_and_reporting}
 
 Accounts have a **trust tier** that grows over time. Since Update 34.0:
 
 - Some scheduled public games are **trusted-only**, gated on account trust tier, with lock indicators on their lobby cards; the listing names the tier required. Open lobbies are always available alongside them, and v0.34.1 reduced how many lobbies are trusted-only. Signed-out players are told to sign in when blocked from a trusted lobby.
+- [Ranked](/Ranked) play needs a trusted account (Update 35.0), and level Plutonium rewards are held until you are trusted.
 - [Steam](/Steam) accounts get instant trusted status and skip the trust ladder.
 - A **Report Player** button in the player panel lets you report botting, teaming, bad names or griefing straight into the moderation tools. Banned players are shown the reason for their ban.
 
@@ -47,3 +54,5 @@ Accounts can be deleted from account settings. Deletion is queued for 24 hours s
 - [Steam](/Steam)
 - [Update 33.0](/Update_33.0)
 - [Update 34.0](/Update_34.0)
+- [Levels and XP](/Levels_and_XP)
+- [Update 35.0](/Update_35.0)

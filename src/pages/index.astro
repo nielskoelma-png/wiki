@@ -39,6 +39,16 @@ const wikiUpdates = Object.fromEntries(
 // exists (see wikiUpdates) and to GitHub otherwise.
 const updates = [
   {
+    version: "v0.35.0",
+    date: "October 16 2026",
+    url: "/Update_35.0",
+    notes: [
+      "Player levels, XP and prestige, with a subscriber XP boost",
+      "Ranked Free For All and Ranked Clan Wars",
+      "Smarter nations, a seekable replay viewer and twelve new maps",
+    ],
+  },
+  {
     version: "v0.34.0",
     date: "September 14 2026",
     url: "/Update_34.0",
@@ -80,16 +90,16 @@ const featuredVideos = [
 // when the next major release ships.
 const latestMajorNN = Math.max(0, ...Object.keys(wikiUpdates).map(Number));
 const majorUpdate = {
-  title: "OpenFront v34",
-  date: "September 2026",
+  title: "OpenFront v35",
+  date: "October 2026",
   href: wikiUpdates[String(latestMajorNN)] || "/Update_History",
   blurb:
-    "The Steam update — OpenFront launches on Steam on September 17th, alongside public profiles, smarter nations, trusted-only lobbies, a cosmetics inventory, a full lobby browser and four new maps.",
+    "The progression update — player levels and XP with prestige, Ranked Free For All and Clan Wars, a seekable replay viewer, smarter nations, faster quick chat and emoji, lobbies past 125 players and twelve new maps.",
   highlights: [
-    "OpenFront on Steam — exclusive cosmetics, offline play & achievements",
-    "Smarter Hard/Impossible nations and a rebuilt attack model",
-    "Trusted lobbies, player reporting & public profiles",
-    "Yangtze River, Cape Cod, Channel Islands & Gulf of Mexico",
+    "Player levels, XP and prestige up to Legend",
+    "Ranked Free For All and Ranked Clan Wars",
+    "Smarter nations and nukes that annex again",
+    "Madagascar, Horn of Africa, New Zealand, Benelux & more",
   ],
 };
 

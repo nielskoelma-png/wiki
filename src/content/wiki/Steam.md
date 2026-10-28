@@ -15,6 +15,7 @@ OpenFront is still free in the browser, and always will be. The Steam client is 
 - **Steam achievements.**
 - **Faster starts**: [maps](/Maps) and assets are already on disk, so games start without waiting on a download.
 - **A full sound and music rework**, with a looping menu theme, a looping gameplay track and new commissioned sound effects.
+- **A +50% XP boost** while your Steam Plus subscription is active, from [Update 35.0](/Update_35.0) (see [Levels and XP](/Levels_and_XP)).
 - **Instant trusted account status**: Steam accounts skip the trust ladder, so you can join trusted-only lobbies straight away and play games that anonymous griefers can't drop into.
 
 ## Linking your account {#Linking_your_account}

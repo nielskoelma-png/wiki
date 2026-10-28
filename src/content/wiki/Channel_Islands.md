@@ -13,9 +13,9 @@ The map features 44 named [nations](/Nations), including Huntington Beach, Newpo
 
 ## Details {#Details}
 
-- **Categories:** North America, New
+- **Categories:** North America
 - **Nations:** 44
-- **Public rotation frequency:** 7
+- **Public rotation frequency:** 4 (lowered from 7 in [Update 35.0](/Update_35.0))
 
 # See also {#See_also}
 

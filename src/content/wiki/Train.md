@@ -20,6 +20,8 @@ Trains are spawned according to a probabilistic mechanism that is influenced by 
 <span class="p">}</span>
 </pre></div>
 
+Since [Update 35.0](/Update_35.0), a player's first few [factories](/Factory) spawn trains faster: the same small-economy boost as [trade ships](/Trade_Ship) (1.5× at one factory level, fading out by 6). The v35 spawn rate is <code>max(1, floor((factories + 10) × 15 / (saturation × boost)))</code>, where the saturation curve damps spawning past about 560 trains in the world. A station built on a stretch of track a train was already on now pays [gold](/Gold) correctly.
+
 ## See also {#See_also}
 
 - [Factory](/Factory)

@@ -17,6 +17,8 @@ Once all of these conditions are met, if the attacker attacks the surrounded ter
 
 As of [Update 34.0](/Update_34.0), only territory that is genuinely enclosed is annexed. This fixed cases where a player could lose their whole empire in a single tick to a neighbour without an attack ever landing.
 
+Since [Update 35.0](/Update_35.0), land that a nuke cuts off from the main body of someone's territory is annexed by the surrounding enemy again. This had stopped working whenever the main body touched the coast, which covered most empires.
+
 You do not have to conquer a whole nation/player in order to conquer a smaller surrounded part of their territory.
 
 ## Strategy {#Strategy}
